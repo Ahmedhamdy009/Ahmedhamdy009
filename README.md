@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Bumper Banner / Typing Animation -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,24&height=180&section=header&text=Ahmed%20Hamdy&fontSize=42&fontAlignY=35&fontColor=ffffff&desc=WordPress%20%26%20WooCommerce%20Developer%20%7C%20C%2B%2B%20%26%20Problem%20Solving&descSize=18&descAlignY=60&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=Ahmed%20Hamdy&fontSize=42&fontAlignY=35&fontColor=ffffff&desc=WordPress%20and%20WooCommerce%20Developer%20%7C%20C%2B%2B%20and%20Problem%20Solving&descSize=18&descAlignY=60&descAlign=50" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FF641F&center=true&vCenter=true&width=650&lines=WordPress+%26+WooCommerce+Developer;500%2B+Solved+Problems+in+C%2B%2B;Custom+Themes%2C+ACF+Pro+%26+High+Performance;Fast+Websites.+Engineered+to+Convert." alt="Typing SVG" />
@@ -47,8 +47,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ahmedhamdy009&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff641f&icon_color=38bdf8" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedhamdy009&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff641f" height="165" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ahmedhamdy009&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff641f&icon_color=38bdf8" height="165" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ahmedhamdy009&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff641f" height="165" />
 
 <br/>
 
